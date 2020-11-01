@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15f70d8a-a6c4-47f2-aa6a-c754eb0f7618" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eq6IftpggM45gPy5NTnuLKSbxL" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Program Files/android-sdk-windows" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyProjects\HighConcurrencyMall\project_highconcurrencymall\src\main\java\zy\code\project_highconcurrencymall\config" />
+      <recent name="F:\MyProjects\HighConcurrencyMall\project_highconcurrencymall\src\main\java\zy\code\project_highconcurrencymall\vo" />
+      <recent name="F:\MyProjects\HighConcurrencyMall\project_highconcurrencymall\src\main\java\zy\code\project_highconcurrencymall\domain" />
+      <recent name="F:\MyProjects\HighConcurrencyMall\project_highconcurrencymall\src\main\java\zy\code\project_highconcurrencymall\dao" />
+      <recent name="F:\MyProjects\HighConcurrencyMall\project_highconcurrencymall\src\main\java\zy\code\project_highconcurrencymall\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjectHighconcurrencymallApplication">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zy.code.project_highconcurrencymall.util.MD5Util" />
+      <module name="project_highconcurrencymall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zy.code.project_highconcurrencymall.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectHighconcurrencymallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="project_highconcurrencymall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zy.code.project_highconcurrencymall.ProjectHighconcurrencymallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15f70d8a-a6c4-47f2-aa6a-c754eb0f7618" name="Default Changelist" comment="" />
+      <created>1595036697361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595036697361</updated>
+      <workItem from="1595036700110" duration="9064000" />
+      <workItem from="1595073207851" duration="3599000" />
+      <workItem from="1595086571761" duration="717000" />
+      <workItem from="1595116300742" duration="8000" />
+      <workItem from="1595294956589" duration="26513000" />
+      <workItem from="1595389000041" duration="20000" />
+      <workItem from="1595423373953" duration="7788000" />
+      <workItem from="1595487620138" duration="30000" />
+      <workItem from="1597546111254" duration="21519000" />
+      <workItem from="1598704995299" duration="5052000" />
+      <workItem from="1600240761868" duration="1905000" />
+      <workItem from="1600393292320" duration="2571000" />
+      <workItem from="1600656643043" duration="1089000" />
+      <workItem from="1600947430251" duration="105000" />
+      <workItem from="1604226132391" duration="87000" />
+      <workItem from="1604226414240" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
