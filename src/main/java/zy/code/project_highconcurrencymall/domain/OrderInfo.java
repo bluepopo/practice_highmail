@@ -2,6 +2,9 @@ package zy.code.project_highconcurrencymall.domain;
 
 import java.util.Date;
 
+/**
+ * 订单的详情
+ */
 public class OrderInfo {
 	private Long id;
 	private Long userId;

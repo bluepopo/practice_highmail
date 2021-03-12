@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f70d8a-a6c4-47f2-aa6a-c754eb0f7618" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="15f70d8a-a6c4-47f2-aa6a-c754eb0f7618" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_highconcurrencymall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project_highconcurrencymall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/ProjectHighconcurrencymallApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/ProjectHighconcurrencymallApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/config/UserArgumentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/config/UserArgumentResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/dao/GoodsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/dao/GoodsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/domain/OrderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/domain/OrderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/result/CodeMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/result/CodeMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/goods_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/goods_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/goods_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/goods_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/order_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/order_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/goods_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/goods_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/goods_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/goods_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/order_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/order_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/ProjectHighconcurrencymallApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/ProjectHighconcurrencymallApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/config/UserArgumentResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/config/UserArgumentResolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/domain/OrderInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/domain/OrderInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/result/CodeMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/result/CodeMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/service/GoodsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/service/GoodsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/service/MiaoshaUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zy/code/project_highconcurrencymall/service/MiaoshaUserService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,26 +51,39 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository\repository" />
+        <option name="mavenHome" value="D:\maven\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1eq6IftpggM45gPy5NTnuLKSbxL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="android.sdk.path" value="D:/Program Files/android-sdk-windows" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../Program Files/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -49,18 +93,6 @@
       <recent name="F:\MyProjects\HighConcurrencyMall\project_highconcurrencymall\src\main\java\zy\code\project_highconcurrencymall\dao" />
       <recent name="F:\MyProjects\HighConcurrencyMall\project_highconcurrencymall\src\main\java\zy\code\project_highconcurrencymall\service" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ProjectHighconcurrencymallApplication">
     <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -89,6 +121,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBootOptions">
     <option name="showAdditionalConfigNotification" value="false" />
   </component>
@@ -118,10 +151,56 @@
       <workItem from="1600947430251" duration="105000" />
       <workItem from="1604226132391" duration="87000" />
       <workItem from="1604226414240" duration="329000" />
+      <workItem from="1613709337687" duration="5171000" />
+      <workItem from="1614475120134" duration="985000" />
+      <workItem from="1614679859024" duration="10934000" />
+      <workItem from="1614753500667" duration="5243000" />
+      <workItem from="1614949967886" duration="1956000" />
+      <workItem from="1615511641256" duration="3269000" />
+      <workItem from="1615538951699" duration="248000" />
+      <workItem from="1615539212760" duration="351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/dao/GoodsDao.java</url>
+          <line>19</line>
+          <properties class="zy.code.project_highconcurrencymall.dao.GoodsDao" method="getGoodsVoByGoodsId" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/service/GoodsService.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zy/code/project_highconcurrencymall/service/GoodsService.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

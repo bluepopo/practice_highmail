@@ -20,7 +20,12 @@ public class GoodsService {
 	}
 
 	public GoodsVo getGoodsVoByGoodsId(long goodsId) {
-		return goodsDao.getGoodsVoByGoodsId(goodsId);
+		GoodsVo goodsVo = null;
+		goodsVo = goodsDao.getGoodsVoByGoodsId(goodsId);
+		System.out.println("===================");
+		System.out.println(goodsVo.getStartDate());
+		return goodsVo;
+
 	}
 
 	public void reduceStock(GoodsVo goods) {

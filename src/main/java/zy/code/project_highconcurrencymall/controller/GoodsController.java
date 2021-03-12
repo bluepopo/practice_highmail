@@ -53,13 +53,14 @@ public class GoodsController {
     	model.addAttribute("user", user);
     	
     	GoodsVo goods = goodsService.getGoodsVoByGoodsId(goodsId);
-
     	model.addAttribute("goods", goods);
     	
     	long startAt = goods.getStartDate().getTime();
     	long endAt = goods.getEndDate().getTime();
     	long now = System.currentTimeMillis();
-    	
+		System.out.println("------------------");
+		System.out.println(goods.getStartDate());
+
     	int miaoshaStatus = 0;
     	int remainSeconds = 0;
     	if(now < startAt ) {//秒杀还没开始，倒计时

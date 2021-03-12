@@ -11,6 +11,7 @@
     <groupId>zy.code</groupId>
     <artifactId>project_highconcurrencymall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>project_highconcurrencymall</name>
     <description>Demo project for Spring Boot</description>
 
@@ -27,7 +28,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
 
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
@@ -83,13 +83,12 @@
         </dependency>
 
 
-<!--        配置文件属性加载-->
+        <!-- 配置文件属性加载-->
         <dependency>
-            <groupId>org.springframework.boot</groupId>            
-            <artifactId>spring-boot-configuration-processor</artifactId>            
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
             <optional>true</optional>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -104,6 +103,7 @@
     </dependencies>
 
     <build>
+        <finalName>${project.artifactId}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
